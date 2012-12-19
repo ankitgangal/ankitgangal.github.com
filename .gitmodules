@@ -1,3 +1,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/ankitgangal/calculator.git
+[submodule "test"]
+	path = test
+	url = https://github.com/ankitgangal/TestRepo.git
